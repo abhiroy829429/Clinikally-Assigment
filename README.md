@@ -48,10 +48,6 @@ frontend/
 
 ## Getting Started
 
-### Prerequisites
-- [Node.js](https://nodejs.org/) (v16 or newer recommended)
-- [npm](https://www.npmjs.com/) (comes with Node.js)
-
 ### Setup & Installation
 1. **Clone the repository** (if not already):
    ```bash
@@ -92,9 +88,3 @@ frontend/
 - `src/hooks/` — Custom React hooks (e.g., debounce)
 - `src/services/` — API service for product search
 
-## License
-This project is for educational/demo purposes. Please contact the author for production/commercial use.
-
----
-
-**Made with ❤️ for the Clinikally assignment.**
